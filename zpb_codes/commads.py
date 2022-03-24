@@ -13,7 +13,7 @@ ALL_PIC = [
 
 
 
-START_MESSAGE= """ Hey {} This bot's work on progress⚙️
+START_MESSAGE= """ Hey {}  bot's work on progress⚙️ Go back and try after 1month
 """
 
 
