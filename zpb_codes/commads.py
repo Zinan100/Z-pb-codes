@@ -2,7 +2,7 @@ from pyrogram import Client, filters
 from pyrogram.types import InlineKeyboardMarkup, InlineKeyboardButton
 from pyrogram.types import CallbackQuery
 
-START_MESSAGE= """ Hey {} Bot Is On Work ⚙️
+START_MESSAGE= """ Hey {} This bot's work on progress⚙️
 """
 
 
